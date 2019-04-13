@@ -9,7 +9,7 @@ spring:
           uri: https://github.com/CloserWU/spring-cloud-config
           search-paths: spring-cloud-config
           username: CloserWU
-          password: ws995339251
+          password:
 
 server:
   port: 8888
